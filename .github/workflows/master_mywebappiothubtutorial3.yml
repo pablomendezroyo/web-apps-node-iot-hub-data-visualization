@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'mywebappiothubtutorial3'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8171982190fd4146ba687e1f813aea80 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c7a4069da89d4a6eba250d9c832aaed0 }}
         package: .
